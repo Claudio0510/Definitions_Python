@@ -1,0 +1,8 @@
+def saludar_persona(nombre):
+    print("hola " + nombre)
+    
+    
+
+#Cuando llamamos a la funcion definimos tambien la variable nombre
+#When we call the function also we define the variable
+saludar_persona("Claudio")
